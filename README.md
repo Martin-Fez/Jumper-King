@@ -1,5 +1,8 @@
 # Pygame game: Jump-er king
 
+Showcase of the game: 
+https://youtu.be/igxmIXPCsfM 
+
 Program is started by using the "python jump" command in the command line.
 
 In the game you can move the player character left and right using both the left and right arrows or the a and d buttons.
@@ -11,9 +14,13 @@ The game also contains a debug function which allows the player to shift to the 
 This function can however warp the player out of the map.
 The game is a clone of a indie platformer game 'Jump King'
 
+
+
+
+
 The tests are activated using the "pytest jump" command in CLI.
 
-Reference
+References
 [1] CREATOR ID: 9664c4. Stone texture. on-
 line, 2022. http://pixelartmaker.com/art/
 d02578b45806cd9.
